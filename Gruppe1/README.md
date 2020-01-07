@@ -6,3 +6,4 @@ Mitglieder:
 * Dustin Ochmann (Gruppensprecher)
 * Nils Bried
 * Luca Anthofer
+* Annika Geiger 
